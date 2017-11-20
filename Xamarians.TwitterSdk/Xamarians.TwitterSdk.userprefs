@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{E9F3A7EE-B230-409F-B58A-76BC09A4E6B6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Xamarians.TwitterSdk/Xamarians.TwitterSdk/HomePage.xaml.cs">
+    <Files>
+      <File FileName="Xamarians.TwitterSdk/Xamarians.TwitterSdk.iOS/AppDelegate.cs" Line="26" Column="40" />
+      <File FileName="Xamarians.TwitterSdk/Xamarians.TwitterSdk/Settings/OAuthProviderSetting.cs" Line="35" Column="32" />
+      <File FileName="Xamarians.TwitterSdk/Xamarians.TwitterSdk.iOS/LoginPageRenderer.cs" Line="40" Column="26" />
+      <File FileName="Xamarians.TwitterSdk/Xamarians.TwitterSdk/LoginPage.xaml.cs" Line="39" Column="10" />
+      <File FileName="Xamarians.TwitterSdk/Xamarians.TwitterSdk/Model/UserDetail.cs" Line="25" Column="2" />
+      <File FileName="Xamarians.TwitterSdk/Xamarians.TwitterSdk/Settings/OAuthConfig.cs" Line="26" Column="6" />
+      <File FileName="Xamarians.TwitterSdk/Xamarians.TwitterSdk.iOS/DS/TwitterLogin.cs" Line="63" Column="22" />
+      <File FileName="Xamarians.TwitterSdk/Xamarians.TwitterSdk.iOS/Main.cs" Line="21" Column="1" />
+      <File FileName="Xamarians.TwitterSdk/Xamarians.TwitterSdk.Android/DS/TwitterLogin.cs" Line="14" Column="6" />
+      <File FileName="Xamarians.TwitterSdk/Xamarians.TwitterSdk/LoginPage.xaml" Line="8" Column="15" />
+      <File FileName="Xamarians.TwitterSdk/Xamarians.TwitterSdk/HomePage.xaml" Line="11" Column="15" />
+      <File FileName="Xamarians.TwitterSdk/Xamarians.TwitterSdk/HomePage.xaml.cs" Line="44" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.ItemProperties.Xamarians.TwitterSdk.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.8c4101768d46e3847fcf61769d19a44c6f7b4963" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Xamarians.TwitterSdk.Android PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+</Properties>
